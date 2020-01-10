@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevertIt", "RevertIt\RevertIt.csproj", "{66F3F68C-2FBA-4425-A0B8-D0A6B0702306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66F3F68C-2FBA-4425-A0B8-D0A6B0702306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F3F68C-2FBA-4425-A0B8-D0A6B0702306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F3F68C-2FBA-4425-A0B8-D0A6B0702306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F3F68C-2FBA-4425-A0B8-D0A6B0702306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
